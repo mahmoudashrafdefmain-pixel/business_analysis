@@ -1,0 +1,4 @@
+# Git LFS tracking for large dataset files (>50MB / >100MB)
+*online_retail_ii_combined.csv filter=lfs diff=lfs merge=lfs -text
+*olist_geolocation_dataset.csv filter=lfs diff=lfs merge=lfs -text
+*olist_master_combined.csv filter=lfs diff=lfs merge=lfs -text
